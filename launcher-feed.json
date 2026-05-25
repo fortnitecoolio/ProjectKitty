@@ -4,11 +4,11 @@
   "Announcements": [
     {
       "Id": "e75db363cb924fe983b09d2e298dbba3",
-      "Title": "New announcement",
-      "Body": "",
+      "Title": "Test",
+      "Body": "Testing! This is a test",
       "PostedUtc": "2026-05-25T01:04:52.9770894Z",
-      "Pinned": false
+      "Pinned": true
     }
   ],
-  "UpdatedUtc": "2026-05-25T01:04:53.9039362Z"
+  "UpdatedUtc": "2026-05-25T01:05:05.5296506Z"
 }
