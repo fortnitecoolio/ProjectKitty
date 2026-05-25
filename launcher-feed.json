@@ -1,6 +1,14 @@
 {
   "LauncherDisabled": false,
   "DisabledMessage": "The launcher is temporarily offline. Check Discord for updates.",
-  "Announcements": [],
-  "UpdatedUtc": "2026-05-25T01:37:41.2238726Z"
+  "Announcements": [
+    {
+      "Id": "f047cc648502409b953b8f460de843c4",
+      "Title": "New announcement",
+      "Body": "",
+      "PostedUtc": "2026-05-25T01:37:51.7566116Z",
+      "Pinned": false
+    }
+  ],
+  "UpdatedUtc": "2026-05-25T01:38:19.3136679Z"
 }
