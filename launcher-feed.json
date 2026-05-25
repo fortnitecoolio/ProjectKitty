@@ -1,14 +1,6 @@
 {
   "LauncherDisabled": false,
   "DisabledMessage": "The launcher is temporarily offline. Check Discord for updates.",
-  "Announcements": [
-    {
-      "Id": "f047cc648502409b953b8f460de843c4",
-      "Title": "Announcement",
-      "Body": "Game is coming out in 3 days!",
-      "PostedUtc": "2026-05-25T01:37:51.7566116Z",
-      "Pinned": true
-    }
-  ],
-  "UpdatedUtc": "2026-05-25T01:38:55.7161118Z"
+  "Announcements": [],
+  "UpdatedUtc": "2026-05-25T01:39:18.6732459Z"
 }
