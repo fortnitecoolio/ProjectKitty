@@ -1,5 +1,5 @@
 {
-  "LauncherDisabled": false,
+  "LauncherDisabled": true,
   "DisabledMessage": "The launcher is temporarily offline. Check Discord for updates.",
   "Announcements": [
     {
@@ -10,5 +10,5 @@
       "Pinned": false
     }
   ],
-  "UpdatedUtc": "2026-05-25T01:38:19.3136679Z"
+  "UpdatedUtc": "2026-05-25T01:38:38.1915795Z"
 }
