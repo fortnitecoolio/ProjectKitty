@@ -4,11 +4,11 @@
   "Announcements": [
     {
       "Id": "f047cc648502409b953b8f460de843c4",
-      "Title": "New announcement",
-      "Body": "",
+      "Title": "Announcement",
+      "Body": "Game is coming out in 3 days!",
       "PostedUtc": "2026-05-25T01:37:51.7566116Z",
-      "Pinned": false
+      "Pinned": true
     }
   ],
-  "UpdatedUtc": "2026-05-25T01:38:39.7908786Z"
+  "UpdatedUtc": "2026-05-25T01:38:55.7161118Z"
 }
